@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095860455533",
+    "project_id": "fir-firestore-68fca",
+    "storage_bucket": "fir-firestore-68fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095860455533:android:f4fed6663dc2a049e1d764",
+        "android_client_info": {
+          "package_name": "com.luciano.firebase_conexion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095860455533-9sbsil4ib3imfca4oe46usbfe5esal7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXfDvfROQO-hidjx6SKum__z2-QY6clQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095860455533-9sbsil4ib3imfca4oe46usbfe5esal7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
